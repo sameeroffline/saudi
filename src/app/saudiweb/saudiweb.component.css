@@ -1,0 +1,24 @@
+ .sizel{
+     width: 120px;
+     height: 100px;
+     background-color: white;
+     margin-top: -50px;
+     margin-left: 50px;
+     font-size: 18px;
+ }
+
+ .sizel h2{
+     color: blue;
+     text-align: center;
+     font-size: 40px;
+     
+ }
+  .aprel{
+      position: absolute;
+  }
+
+  /* @media(max-width: 999px){
+} */
+/* .card-img-overlay{
+    z-index: 1;
+} */
